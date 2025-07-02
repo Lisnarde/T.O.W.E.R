@@ -1,0 +1,17 @@
+GUIDE DU JEU:
+
+Z : se déplacer vers le haut
+Q : se déplacer vers la gauche
+S : se déplacer vers le bas
+D : se déplacer vers la droite
+
+A : passer à l'arme précédente
+E : passer à l'arme suivante
+
+LeftClick : tirer
+
+Echap : quitter le jeu
+
+---------
+
+Utilisation d'une souris recommandée
