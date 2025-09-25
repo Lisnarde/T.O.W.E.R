@@ -1,2 +1,0 @@
-Bibliothèques python à installer:
- - pyxel : 2.0.7 ou dernière version
