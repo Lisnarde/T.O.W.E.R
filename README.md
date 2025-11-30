@@ -5,6 +5,13 @@ Jeu de survie shooter pixelisé en 2D
 Il s'agit de terminer le plus grand nombre de niveaux, qui sont à difficulté croissante.
 Pour chaque niveau, il y a un kit de soin pour récupérer des PV, et un portail pour accéder au niveau suivant
 
+### Eliminez tout les ennemis
+![from_assets](readme-res/T.O.W.E.R1.gif)
+### Passez à l'étage suivant
+![from_assets](readme-res/T.O.W.E.R2.gif)
+### Avant le game over
+![from_assets](readme-res/T.O.W.E.R3.gif)
+
 ## ARBORESCENCE DU PROJET
   
 |_ app.py  
